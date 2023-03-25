@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'/Users/prestonhollow/NetBeansProjects/RecipeBox/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'RecipeBox 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'RecipeBox 1.0-SNAPSHOT API'
+com.thomasgusewelle.recipebox
+/Users/prestonhollow/NetBeansProjects/RecipeBox/src/main/java/.DS_Store = 1670514087794
+/Users/prestonhollow/NetBeansProjects/RecipeBox/src/main/java = 1670514087794
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/tag-search-index.js = 1673360947237
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/overview-tree.html = 1673360947222
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/module-search-index.js = 1673360947235
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/index.html = 1673360947253
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/package-search-index.js = 1673360947236
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/jquery-ui.overrides.css = 1673360947265
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/index-all.html = 1673360947250
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/allpackages-index.html = 1673360947234
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/member-search-index.js = 1673360947236
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/copy.svg = 1673360947258
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/script.js = 1673360947258
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/stylesheet.css = 1673360947257
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/search-page.js = 1673360947261
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/help-doc.html = 1673360947256
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/element-list = 1673360947192
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/search.html = 1673360947252
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/allclasses-index.html = 1673360947232
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/type-search-index.js = 1673360947236
+/Users/prestonhollow/NetBeansProjects/RecipeBox/target/site/apidocs/search.js = 1673360947260
